@@ -1,4 +1,4 @@
 # TelegramBot
 Bot Telegram + Active Directory
 
-To integrate with AD, you need [ADHelper](https://github.com/pjdsant/TelegramBot.git/).
+To integrate with AD, you need [ADHelper](https://github.com/pjdsant/ADHelperLib.git/).
